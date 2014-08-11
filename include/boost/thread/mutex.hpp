@@ -19,7 +19,7 @@
 #endif
 
 #include <boost/thread/lockable_traits.hpp>
-
+#include <boost/thread/lock_types.hpp>
 
 namespace boost
 {
